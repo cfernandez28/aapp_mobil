@@ -2,21 +2,20 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.nomdelprograma"
-        versionCode = "00" 
-        version     = "0.0.00" >
+        id          = "cat.numancia.CARLOSFERU2018
+        versionCode = "01" 
+        version     = "0.0.01" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	<preference name="phonegap-version" value="cli-6.5.0" />
 
-    <name>nom del programa</name>
+    <name>Reproductor mp3</name>
 
-   <description>
-       Descripció , nom i grup . Curs Acadèmic.
+   <Reproductor de musica, Carlos Fernandez 4tB . 2017-2018.
     </description>
 
-    <author href="https://numancia.cat/intranet" email="elteucorrreu@iesnumancia.cat">
+    <author href="https://numancia.cat/intranet" email="cfernandez28@iesnumancia.cat">
        nom de l'autor
     </author>
 
